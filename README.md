@@ -13,15 +13,15 @@ Centralizar materiais de estudo sobre fundamentos e prática em blockchain, com 
 ## Estrutura de pastas
 
 - `aulas/`: conteúdos das aulas por tema.
-	- `aulas/tokenizacao/`: material da aula de tokenização (guia principal e glossário específico).
-- `glossario/`: glossário geral de termos de blockchain e criptografia.
+  - `aulas/tokenizacao/`: material da aula de tokenização (guia principal e dicionário específico).
+- `dicionario/`: dicionário geral de termos de blockchain e criptografia.
 - `material_adicional/`: curadoria de materiais extras (livros, cursos, docs, whitepapers e trilhas).
 - `projetos/`: espaço para projetos práticos e exercícios aplicados.
 - `others/assets/`: arquivos visuais de apoio (como o banner do clube).
 
 ## Como usar para aprender blockchain
 
-1. Comece por `glossario/README.md` para alinhar vocabulário.
+1. Comece por `dicionario/README.md` para alinhar vocabulário.
 2. Siga para `aulas/tokenizacao/README.md` para estudar a base teórica e prática.
 3. Use `material_adicional/README.md` para aprofundar em documentações, cursos e whitepapers.
 4. Consolide o aprendizado com implementação em `projetos/`.
@@ -31,5 +31,5 @@ Centralizar materiais de estudo sobre fundamentos e prática em blockchain, com 
 - Leia um tópico teórico.
 - Resuma os conceitos-chave.
 - Faça um exercício prático relacionado.
-- Revise termos no glossário.
+- Revise termos no dicionário.
 - Registre dúvidas e insights para discussão no clube.
