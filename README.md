@@ -54,7 +54,7 @@ Sua contribuição é muito bem-vinda! Veja como você pode ajudar:
 <details>
   <summary><strong>Sugerir melhorias ou relatar erros</strong></summary>
   
-  Se você encontrou um erro, tem uma sugestão de melhoria ou um novo material, por favor, [**abra uma Issue**](https://github.com/seu-usuario/seu-repositorio/issues/new).
+  Se você encontrou um erro, tem uma sugestão de melhoria ou um novo material, por favor, [**abra uma Issue**](https://github.com/InteliBlockchain-IBC/educational/issues/new).
   
   Descreva sua sugestão com o máximo de detalhes possível, incluindo links se necessário.
 </details>
