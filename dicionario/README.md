@@ -2,11 +2,17 @@
     <img src="../others/assets/banner_blockas.png" alt="Banner Blockas">
 </p>
 
-# Dicionário de Termos - Blockchain e Criptografia
+<h1 align="center">
+    Dicionário de Termos - Blockchain e Criptografia
+</h1>
 
-Este dicionário reúne os principais termos técnicos e conceitos do ecossistema de blockchain e criptografia. Cada termo acompanha uma definição clara e um link para um material de estudo aprofundado.
+<p align="center">
+    <strong>Este dicionário reúne os principais termos técnicos e conceitos do ecossistema de blockchain e criptografia. Cada termo acompanha uma definição clara e um link para um material de estudo aprofundado.</strong>
+</p>
 
-Para voltar ao material principal [clique aqui](./dicionario.md)
+Para voltar ao material principal [clique aqui](../README.md)
+
+---
 
 **Índice Remissivo:**
 [ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ K ](#k) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ W ](#w) | [ Z ](#z)

@@ -2,9 +2,13 @@
 	<img src="../others/assets/banner_blockas.png" alt="Banner Blockas">
 </p>
 
-# Materiais Adicionais de Estudo: Trilha de Aprendizagem Blockchain
+<h1 align="center">
+	Materiais Adicionais de Estudo: Trilha de Aprendizagem Blockchain 
+</h1>
 
 Materiais de introdução, aprofundamento e prática para membros em blockchain. Prioridade para recursos em português e, quando necessário, complementos em inglês com qualidade técnica relevante. Cobre fundamentos, redes importantes, cursos, artigos, whitepapers, ferramentas, comunidades e uso de IA aplicado ao desenvolvimento em Bitcoin, Ethereum, Solana e Stellar.
+
+---
 
 ## Sumário Geral
 
