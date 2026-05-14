@@ -21,6 +21,11 @@ Para voltar ao material principal [clique aqui](../README.md)
 
 ### A
 
+**Account Abstraction (Abstração de Conta)**
+Uma atualização tecnológica que permite que as contas de usuários operem como contratos inteligentes. Isso possibilita recursos avançados como recuperação social de carteiras, pagamento de taxas de gas com tokens variados e transações em lote.
+
+- [Aprofunde-se sobre Account Abstraction](https://ethereum.org/pt-br/roadmap/account-abstraction/)
+
 **AML (Anti-Money Laundering)**
 Conformidade contra lavagem de dinheiro, englobando as leis e regulamentações criadas para impedir a geração de renda por meio de ações ilegais.
 
@@ -153,6 +158,11 @@ Token único e não intercambiável que serve como prova definitiva de proprieda
 Computador que executa o software da blockchain, conectado a outros computadores, que participa ativamente da rede mantendo uma cópia atualizada do ledger.
 
 - [Aprofunde-se sobre Nós (Nodes)](https://ethereum.org/pt-br/developers/docs/nodes-and-clients/)
+
+**Nó Validador (Validator Node)**
+Nó especializado responsável por verificar a validade das transações, agrupá-las e propor a adição de novos blocos à blockchain. Dependendo do mecanismo de consenso da rede (como Proof of Stake ou Proof of Authority), a operação desse nó pode exigir o bloqueio de ativos (staking), delegação de votos ou permissões de identidade específicas, garantindo a segurança e o alinhamento de incentivos do ecossistema.
+
+- [Aprofunde-se sobre Nós Validadores e Consenso](https://academy.binance.com/pt/articles/what-is-a-blockchain-consensus-algorithm)
 
 ### O
 
