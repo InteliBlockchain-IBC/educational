@@ -6,7 +6,7 @@
 
 Este dicionário reúne os principais termos técnicos e conceitos do ecossistema de tokenização. Cada termo acompanha uma definição clara e um link para um material de estudo aprofundado.
 
-Para voltar ao material principal [clique aqui](./dicionario.md)
+Para voltar ao material principal [clique aqui](./README.md)
 
 **Índice Remissivo:**
 [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ N ](#n) | [ O ](#o) | [ R ](#r) | [ T ](#t) | [ W ](#w)

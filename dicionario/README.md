@@ -15,7 +15,7 @@ Para voltar ao material principal [clique aqui](../README.md)
 ---
 
 **Índice Remissivo:**
-[ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ K ](#k) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ W ](#w) | [ Z ](#z)
+[ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ I ](#i) | [ K ](#k) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ W ](#w) | [ Z ](#z)
 
 ---
 
@@ -123,6 +123,13 @@ Unidade de medida de custo computacional na rede Ethereum. Quanto maior e mais c
 
 - [Aprofunde-se sobre Gas](https://ethereum.org/pt-br/developers/docs/gas/)
 
+### I
+
+**IPFS (InterPlanetary File System)**
+Rede descentralizada e global de armazenamento e compartilhamento de arquivos endereçados por hash de conteúdo. Amplamente utilizada para hospedar metadados de NFTs e registros imutáveis de votações off-chain.
+
+- [Aprofunde-se sobre o funcionamento do IPFS](https://ipfs.tech/)
+
 ### K
 
 **KYC (Know Your Customer)**
@@ -147,6 +154,11 @@ Valor financeiro máximo que um minerador ou validador pode extrair ao reordenar
 
 - [Aprofunde-se sobre MEV](https://ethereum.org/pt-br/developers/docs/mev/)
 
+**Multi-Sig (Múltiplas Assinaturas)**
+Configuração de segurança para carteiras digitais que exige que um número mínimo de signatários previamente aprovados (ex: 3 de 5) autorize uma transação antes que ela seja executada na blockchain. Padrão para tesourarias corporativas e DAOs.
+
+- [Aprofunde-se sobre Carteiras Multi-Sig](https://ethereum.org/pt-br/wallets/)
+
 ### N
 
 **NFT (Non-Fungible Token)**
@@ -166,6 +178,11 @@ Nó especializado responsável por verificar a validade das transações, agrup�
 
 ### O
 
+**OpenZeppelin**
+Biblioteca padrão da indústria que fornece implementações auditadas e altamente seguras de contratos inteligentes, incluindo padrões de tokens (ERC-20, ERC-721) e módulos de governança.
+
+- [Aprofunde-se sobre a OpenZeppelin](https://www.openzeppelin.com/)
+
 **Oráculos**
 Serviços que trazem dados e informações do mundo real para dentro da blockchain de forma segura, alimentando contratos inteligentes.
 
@@ -184,6 +201,11 @@ Mecanismo de consenso que requer enorme esforço computacional e resolução de 
 - [Aprofunde-se sobre PoW](https://ethereum.org/pt-br/developers/docs/consensus-mechanisms/pow/)
 
 ### R
+
+**Reentrância (Reentrancy Attack)**
+Vulnerabilidade clássica em contratos inteligentes onde uma função externa maliciosa consegue chamar a si mesma repetidamente antes que o estado e os saldos do contrato sejam atualizados, permitindo drenar fundos. Foi o vetor utilizado no hack do "The DAO" em 2016.
+
+- [Aprofunde-se sobre Ataques de Reentrância](https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/)
 
 **Rollup**
 Solução de escalabilidade (Layer 2) que executa e agrupa múltiplas transações fora da cadeia principal, registrando os resultados de forma compactada na blockchain original.
@@ -233,6 +255,11 @@ Processo de bloquear criptomoedas em um contrato inteligente de protocolo para a
 Rede de teste alternativa e paralela à rede principal, utilizada por desenvolvedores para experimentar aplicações e contratos sem riscos de perder dinheiro real.
 
 - [Aprofunde-se sobre Testnets](https://academy.binance.com/pt/glossary/testnet)
+
+**Timelock (Trava de Tempo)**
+Contrato inteligente de segurança que impõe um atraso temporal obrigatório (ex: 48 horas) entre a aprovação de uma decisão e a sua execução on-chain. Padrão em governança de DAOs e atualizações de protocolos para permitir revisões em caso de propostas maliciosas.
+
+- [Aprofunde-se sobre o funcionamento do Timelock](https://docs.openzeppelin.com/contracts/4.x/api/governance#TimelockController)
 
 **Token**
 Representação digital de valor emitida dentro de uma blockchain pré-existente. Pode assumir a forma de moeda, utilidade, direito de voto ou representação de um ativo.

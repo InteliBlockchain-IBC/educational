@@ -107,7 +107,7 @@ contract TokenDeEstudo is ERC20 {
 - **`constructor() ERC20(...)`**: O construtor é uma função especial. Ele roda apenas uma única vez na vida do contrato: no momento exato em que ele é publicado na blockchain. Dentro dos parênteses, passamos o nome oficial do nosso token ("Token de Estudo") e a sua sigla ("TKE").
 - **`_mint(...)`**: Mintar significa "cunhar" ou "emitir" moedas. Esta função cria os tokens do nada.
 - **`msg.sender`**: É uma variável global do Solidity. Ela descobre automaticamente qual é a carteira que apertou o botão de publicar o contrato. Ou seja, os tokens serão enviados para você.
-- **`1000 * 10  decimals()`**: Nós queremos emitir 1.000 tokens. Porém, a blockchain não entende números com vírgula. A função `decimals()` adiciona 18 zeros após o número 1.000, garantindo a precisão matemática da rede Ethereum.
+- **`1000 * 10 ** decimals()`**: Nós queremos emitir 1.000 tokens. Porém, a blockchain não entende números com vírgula. A função `decimals()` retorna 18 (padrão ERC-20) e o operador `**` (potência) multiplica 1.000 por `10^18`, garantindo a precisão matemática da rede Ethereum.
 
 ### Passo 4: Compilando o Código
 

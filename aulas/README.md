@@ -27,6 +27,7 @@ O objetivo desta seção é fornecer um local centralizado para todos os materia
 | Aula | Descrição |
 | --- | --- |
 | 🪙 [**Tokenização**](./tokenizacao/README.md) | Conceitos, tipos e aplicações da tokenização de ativos no mundo real. |
+| 🏛️ [**DAOs**](./dao/README.md) | Organizações Autônomas Descentralizadas: arquitetura, governança híbrida e gestão de tesouraria. |
 
 ---
 
@@ -37,7 +38,7 @@ Sua contribuição é muito bem-vinda! Veja como você pode ajudar:
 <details>
   <summary><strong>Sugerir melhorias ou relatar erros</strong></summary>
   
-  Se você encontrou um erro, tem uma sugestão de melhoria ou um novo material para uma aula, por favor, [**abra uma Issue**](https://github.com/InteliBlockchain-IBC/educationalissues/new).
+  Se você encontrou um erro, tem uma sugestão de melhoria ou um novo material para uma aula, por favor, [**abra uma Issue**](https://github.com/InteliBlockchain-IBC/educational/issues/new).
   
   Descreva sua sugestão com o máximo de detalhes possível, incluindo links se necessário.
 </details>
