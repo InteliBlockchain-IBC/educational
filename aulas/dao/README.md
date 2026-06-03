@@ -22,7 +22,40 @@ Isso gerou um dilema filosófico: intervir e reescrever o histórico da blockcha
 
 ---
 
-## 2. Arquitetura de Código: Como uma DAO funciona na Blockchain?
+## 2. Tipos e Categorias de DAOs
+
+O ecossistema Web3 diversificou os casos de uso da governança descentralizada. Atualmente, os principais tipos de DAOs estruturadas no mercado são:
+
+### Protocol DAOs
+Votam nas decisões e nas atualizações de uma infraestrutura descentralizada.
+* **Controle de parâmetros:** Ajuste prático de métricas essenciais da rede, como taxas de transação e juros.
+* **Atualizações de Código:** Votação formal para implementações de melhorias no protocolo.
+* **Gestão de tesouraria:** Controle sobre a alocação de fundos para fomento e segurança.
+* *Exemplo Prático:* Arbitrum DAO.
+
+### Venture DAOs
+Comunidades que reúnem capital para investir em projetos e ativos em estágio inicial.
+* **Pooling de Capital:** Agrupamento de recursos de diversos membros em uma tesouraria comum.
+* **Acesso Democratizado:** Redução das barreiras de entrada para pequenos investidores.
+* **Gestão Automatizada de Lucros:** Distribuição proporcional de retornos diretamente via contratos inteligentes.
+* *Exemplo Prático:* THE LAO.
+
+### Service DAOs
+Cooperativas de profissionais que oferecem serviços especializados para o ecossistema Web3.
+* **Talentos On-demand:** Alocação de desenvolvedores, auditores e designers por projeto.
+* **Mérito e Reputação:** Poder de decisão atrelado ao nível de contribuição efetiva do membro.
+* **Pagamentos via Tesouraria:** Transparência total no repasse de fundos entre clientes e colaboradores.
+* *Exemplo Prático:* LexDAO.
+
+### Collector DAOs
+Comunidades que agrupam capital para adquirir e gerir ativos raros de alto valor cultural ou financeiro.
+* **Fracionamento de Ativos:** Divisão de posse que permite a aquisição conjunta de itens caros.
+* **Curadoria Coletiva:** Análise e deliberação comunitária sobre quais itens devem integrar o acervo.
+* **Preservação Cultural:** Foco em proteger e manter acessíveis itens de importância digital ou física.
+
+---
+
+## 3. Arquitetura de Código: Como uma DAO funciona na Blockchain?
 
 Uma DAO moderna não é um único contrato inteligente, mas um ecossistema de contratos interconectados que assumem diferentes papéis na governança. O padrão mais utilizado hoje é baseado na arquitetura OpenZeppelin Governor, dividida em três pilares:
 
@@ -40,7 +73,7 @@ O Governador não guarda os fundos da DAO. Quem armazena o dinheiro e tem a perm
 
 ---
 
-## 3. A Anatomia de uma Proposta On-Chain
+## 4. A Anatomia de uma Proposta On-Chain
 
 Uma proposta votada em uma DAO não é um documento de texto, mas um pacote de dados executáveis. Quando os membros votam para realizar uma ação (ex: transferir 10 ETH), o contrato armazena parâmetros técnicos precisos:
 
@@ -53,7 +86,7 @@ Se a proposta for aprovada, o código pega esses parâmetros e faz uma chamada d
 
 ---
 
-## 4. Mecanismos de Segurança Institucional
+## 5. Mecanismos de Segurança Institucional
 
 Para evitar manipulações de mercado e falhas sistêmicas, a engenharia de contratos para DAOs evoluiu com mecanismos de proteção essenciais:
 
@@ -63,7 +96,7 @@ Para evitar manipulações de mercado e falhas sistêmicas, a engenharia de cont
 
 ---
 
-## 5. O Fluxo de Governança Híbrida (Off-chain e On-chain)
+## 6. O Fluxo de Governança Híbrida (Off-chain e On-chain)
 
 O custo computacional (Gas) da rede Ethereum torna financeiramente inviável votar todas as micro-decisões diretamente na blockchain. Para contornar isso e evitar a exclusão de pequenos detentores de tokens, o mercado adotou o fluxo híbrido:
 
@@ -73,7 +106,7 @@ O custo computacional (Gas) da rede Ethereum torna financeiramente inviável vot
 
 ---
 
-## 6. Modelos de Maturidade e Gestão Financeira
+## 7. Modelos de Maturidade e Gestão Financeira
 
 A implementação de uma DAO não termina no deploy do contrato inteligente; ela exige estruturação de governança corporativa e gestão de risco.
 
