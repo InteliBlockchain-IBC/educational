@@ -28,6 +28,7 @@ O objetivo desta seção é fornecer um local centralizado para todos os materia
 | --- | --- |
 | 🪙 [**Tokenização**](./tokenizacao/README.md) | Conceitos, tipos e aplicações da tokenização de ativos no mundo real. |
 | 🏛️ [**DAOs**](./dao/README.md) | Organizações Autônomas Descentralizadas: arquitetura, governança híbrida e gestão de tesouraria. |
+| 🌐 [**Redes Blockchain**](./redes/README.md) | Estudo comparativo de redes (Bitcoin, Ethereum, Solana, Stellar), mecanismos de consenso e escalabilidade. |
 
 ---
 
