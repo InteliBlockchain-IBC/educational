@@ -119,6 +119,10 @@ Infraestrutura de rede que atua como uma ponte de comunicação, buscando dados 
 Característica de sistemas abertos onde não há necessidade de aprovação de uma autoridade central para participar, interagir ou construir aplicações sobre a rede.
 - [Aprofunde-se em Permissionless](https://coinmarketcap.com/alexandria/glossary/permissionless)
 
+**Prediction Markets (Mercados de Previsão)**
+Plataformas descentralizadas onde os usuários negociam contratos baseados na probabilidade de eventos do mundo real acontecerem (como eleições ou aprovações regulatórias). Utilizam a inteligência coletiva e o capital financeiro em risco (*skin in the game*) para precificar a chance de um evento, liquidando os resultados de forma automatizada e à prova de censura através do uso de Oráculos.
+- [Aprofunde-se em Prediction Markets](https://coinmarketcap.com/alexandria/glossary/prediction-market)
+
 ### S
 
 **Smart Contract (Contrato Inteligente)**
